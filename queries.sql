@@ -1,1 +1,1 @@
-queries.sql
+SELECT * FROM departments;
